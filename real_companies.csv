@@ -1,0 +1,31 @@
+Record ID,Name,Domain Name,Industry,Country/Region,Number of Associated Contacts,Company Owner,Create Date
+RC001,Orion Tech,oriontech.com,Technology,United States,3,Alice Johnson,2024-08-15
+RC002,NuvoClean SA,nuvoclean.mx,Manufacturing,Mexico,1,Carol Kim,2024-09-20
+RC003,Nordic Pay AB,nordicpay.se,Fintech,Sweden,1,Bob Martinez,2024-10-05
+RC004,Dragon Fintech,dragonfintech.cn,Fintech,China,1,Carol Kim,2024-11-12
+RC005,Castle Rock Ltd,castlerock.ie,Consulting,Ireland,1,Bob Martinez,2024-12-01
+RC006,West Africa Ventures,westafrica.ng,Logistics,Nigeria,1,Alice Johnson,2025-01-08
+RC007,Rocky Mountain Co,rockymtn.com,Energy,United States,1,Alice Johnson,2025-02-14
+RC008,Quantum Leap India,quantumleap.in,Technology,India,2,Carol Kim,2025-03-20
+RC009,Big Box Retail Corp,bigboxretail.com,Retail,United States,2,Alice Johnson,2024-07-30
+RC010,Crescent Capital,crescentcap.com,Finance,South Korea,1,Carol Kim,2024-08-22
+RC011,Vertex Manufacturing,vertexmfg.com,Manufacturing,Canada,1,Alice Johnson,2024-09-14
+RC012,DXB Holdings,dxbholdings.ae,Real Estate,United Arab Emirates,1,Bob Martinez,2024-10-28
+RC013,Seoul Tech Partners,seoultech.kr,Technology,South Korea,1,Carol Kim,2024-11-15
+RC014,BrightPath UK,brightpath.co.uk,Consulting,United Kingdom,1,Bob Martinez,2024-12-20
+RC015,Andean Logistics,andeanlogistics.pe,Logistics,Peru,1,Alice Johnson,2025-01-25
+RC016,Tokyo Systems,tokyosystems.jp,Software,Japan,1,Carol Kim,2025-02-10
+RC017,InnovateHub LLC,innovatehub.com,Technology,United States,1,Alice Johnson,2025-03-05
+RC018,Cornerstone Real Estate,cornerstonere.com,Real Estate,United States,1,Alice Johnson,2025-04-18
+RC019,West African Trading Co,westafrican.com,Trading,Senegal,1,Bob Martinez,2025-05-22
+RC020,Stockholm Capital,stockholmcap.se,Finance,Sweden,1,Bob Martinez,2025-06-10
+RC021,Pacific Rim Ventures,pacificrim.sg,Venture Capital,Singapore,1,Carol Kim,2025-07-14
+RC022,Atlantic Insurance,atlanticinsurance.ie,Insurance,Ireland,1,Bob Martinez,2025-08-20
+RC023,Warsaw Fintech Group,warsawfintech.pl,Fintech,Poland,1,Bob Martinez,2025-09-05
+RC024,Desert Tech Inc,deserttech.com,Technology,United States,1,Alice Johnson,2025-10-12
+RC025,Orion Technologies,oriontech.com,Technology,United States,0,Alice Johnson,2026-01-20
+RC026,OrionTech Corp,oriontech.com,Technology,United States,0,Alice Johnson,2026-03-15
+RC027,Nordic Payments,nordicpay.se,Fintech,Sweden,0,Bob Martinez,2026-02-08
+RC028,Ghost Entity GmbH,,Technology,Germany,0,Bob Martinez,2026-04-01
+RC029,Phantom Corp,phantomcorp.io,Software,United States,0,Alice Johnson,2026-05-10
+RC030,Empty Ventures LLC,emptyllc.com,Finance,United States,0,Carol Kim,2026-06-20

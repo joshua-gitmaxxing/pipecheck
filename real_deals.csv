@@ -1,0 +1,21 @@
+Record ID,Deal Name,Amount,Deal Stage,Close Date,Deal Owner,Associated Contact IDs,Associated Company IDs,Last Activity Date,Create Date,Pipeline,Enter Stage Date
+RD001,Orion Tech Enterprise Suite,95000,Closed Won,2026-05-30,Alice Johnson,2001,RC001,2026-05-30,2025-10-01,Default Pipeline,2026-05-01
+RD002,Orion Tech Add-on License,12000,Closed Lost,2026-04-15,Alice Johnson,2002,RC001,2026-04-15,2025-11-10,Default Pipeline,2026-03-20
+RD003,Big Box Platform Deal,250000,Presentation Scheduled,2026-10-31,Alice Johnson,2013,RC009,2026-04-10,2025-08-15,Default Pipeline,2026-02-01
+RD004,Rocky Mountain Energy Suite,78000,Decision Maker Bought-In,2026-09-30,Alice Johnson,2030,RC007,2026-03-01,2025-09-20,Default Pipeline,2026-01-15
+RD005,NuvoClean Operations Package,44000,Qualified to Buy,2026-11-15,Carol Kim,2004,RC002,2026-07-28,2025-12-05,Default Pipeline,2026-06-01
+RD006,Nordic Pay Integration,67000,Contract Sent,2026-06-30,Bob Martinez,2005,RC003,2026-06-20,2025-11-18,Default Pipeline,2026-06-10
+RD007,Dragon Fintech API Platform,320000,Presentation Scheduled,2026-12-31,Carol Kim,2007,RC004,2026-07-28,2025-10-22,Default Pipeline,2026-03-10
+RD008,Quantum Leap Full Suite,185000,Qualified to Buy,2026-11-30,Carol Kim,2011,RC008,2026-07-27,2025-11-30,Default Pipeline,2026-05-15
+RD009,Tokyo Systems Cloud Migration,220000,Appointment Scheduled,2026-12-15,Carol Kim,2021,RC016,2026-07-29,2026-01-20,Default Pipeline,2026-07-01
+RD010,Cornerstone CRM Deal,55000,Appointment Scheduled,2026-09-01,Alice Johnson,2023,RC018,2026-07-25,2026-02-28,Default Pipeline,2026-07-15
+RD011,Stockholm Capital Suite,130000,Presentation Scheduled,2026-11-30,Bob Martinez,2025,RC020,2026-07-28,2026-03-10,Default Pipeline,2026-07-20
+RD012,Warsaw Fintech Package,88000,Qualified to Buy,2026-10-15,Bob Martinez,2029,RC023,2026-07-19,2026-04-05,Default Pipeline,2026-07-10
+RD013,Castle Rock Advisory Tool,41000,Closed Won,2026-07-01,Bob Martinez,2008,RC005,2026-07-01,2025-12-15,Default Pipeline,2026-06-20
+RD014,Vertex Manufacturing Deal,,Presentation Scheduled,2026-10-31,Alice Johnson,2016,RC011,2026-05-20,2026-01-08,Default Pipeline,2026-02-15
+RD015,Crescent Capital Platform,95000,Contract Sent,2026-05-01,Carol Kim,2015,RC010,2026-04-15,2025-10-30,Default Pipeline,2026-04-20
+RD016,BrightPath UK Starter,29000,Qualified to Buy,2026-03-15,,2019,RC014,2026-07-01,2025-09-12,Default Pipeline,2026-01-10
+RD017,DXB Holdings Enterprise,410000,Decision Maker Bought-In,2026-11-30,Bob Martinez,2017,RC012,2026-07-20,2025-08-25,Default Pipeline,2026-01-20
+RD018,Andean Logistics Suite,33000,Appointment Scheduled,2025-12-31,Alice Johnson,2020,RC015,2026-07-22,2025-07-14,Default Pipeline,2025-11-01
+RD019,InnovateHub Growth Deal,18000,Presentation Scheduled,2025-11-30,Alice Johnson,,RC017,2026-05-10,2025-06-20,Default Pipeline,2025-09-15
+RD020,Pacific Rim Seed Package,22000,Closed Won,2026-06-01,Carol Kim,2026,RC021,2026-06-01,2025-05-10,Default Pipeline,2026-05-15

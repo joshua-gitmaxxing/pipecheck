@@ -1,0 +1,21 @@
+Record ID,Name,Domain Name,Industry,Country/Region,Number of Associated Contacts,Company Owner,Create Date
+C001,ACME Corporation,acmecorp.com,Technology,United States,5,Alice Johnson,2024-09-15
+C002,Tech Ventures Inc,techventures.io,Software,United Kingdom,3,Bob Martinez,2024-10-20
+C003,Global Retail Ltd,globalretail.com,Retail,United States,3,Alice Johnson,2024-08-10
+C004,Media Inc,mediainc.net,Media,United States,3,Alice Johnson,2024-11-05
+C005,NorthStar Solutions,northstar.com,Consulting,United States,4,Alice Johnson,2024-07-22
+C006,Startup Co,startupco.io,Technology,United States,3,Alice Johnson,2025-01-18
+C007,TechFirm,techfirm.com,Software,United States,3,Alice Johnson,2024-12-10
+C008,Pinnacle Systems,pinnacle-sys.com,Technology,United States,3,Alice Johnson,2024-06-30
+C009,Redwood Capital,redwoodcapital.com,Finance,United States,4,Alice Johnson,2024-05-15
+C010,Apex Industries,apex-ind.com,Manufacturing,Germany,3,Bob Martinez,2024-08-25
+C011,Horizon Media,horizonmedia.co,Media,Japan,3,Bob Martinez,2024-09-12
+C012,Summit Analytics,summitanalytics.com,Analytics,Australia,3,Carol Kim,2024-10-08
+C013,Coastal Dynamics,coastaldynamics.com,Engineering,United States,3,Alice Johnson,2024-11-20
+C014,Iron Gate Partners,irongatepartners.com,Finance,United States,2,Alice Johnson,2025-01-05
+C015,Vantage Point Inc,vantagepoint.com,Consulting,India,3,Carol Kim,2024-12-15
+C016,Acme Corp,acmecorp.com,Technology,United States,0,Alice Johnson,2025-06-10
+C017,ACME Corporation Ltd,acmecorp.com,Technology,United States,0,Alice Johnson,2025-08-01
+C018,TechVentures,techventures.io,Software,United Kingdom,0,Bob Martinez,2025-07-15
+C019,Ghost Company LLC,ghostco.com,Technology,United States,0,Alice Johnson,2025-09-20
+C020,Phantom Enterprises,phantomenterprises.com,Finance,United States,0,Bob Martinez,2025-10-15

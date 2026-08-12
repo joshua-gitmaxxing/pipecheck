@@ -1,0 +1,73 @@
+/* Google Fonts must precede @import "tailwindcss" in Tailwind v4 */
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* ── Page background ───────────────────────────────────────── */
+  --color-background:       #F5F5F0;   /* warm off-white */
+  --color-foreground:       #1A1A1A;   /* near-black body text */
+
+  /* ── Card / surface ────────────────────────────────────────── */
+  --color-card:             #FFFFFF;
+  --color-card-foreground:  #1A1A1A;
+  --color-card-border:      #E5E5E0;
+
+  --color-border:           #E5E5E0;
+  --color-input:            #E5E5E0;
+
+  /* ── Primary accent (deep teal) ────────────────────────────── */
+  --color-primary:          #1B3A3A;
+  --color-primary-hover:    #244D4D;
+  --color-primary-foreground: #FFFFFF;
+
+  /* ── Secondary / muted surfaces ────────────────────────────── */
+  --color-secondary:        #EEEEEA;   /* slightly darker than background for contrast */
+  --color-secondary-foreground: #1A1A1A;
+
+  --color-muted:            #EEEEEA;
+  --color-muted-foreground: #6B7280;
+
+  --color-accent:           #EEEEEA;
+  --color-accent-foreground: #1A1A1A;
+
+  --color-destructive:      #DC2626;
+  --color-destructive-foreground: #FFFFFF;
+
+  /* ── Score colours ─────────────────────────────────────────── */
+  --color-score-green:  #16A34A;
+  --color-score-amber:  #D97706;
+  --color-score-red:    #DC2626;
+
+  /* ── Severity badge colours ─────────────────────────────────── */
+  --color-badge-high-bg:    #FEE2E2;
+  --color-badge-high-text:  #DC2626;
+  --color-badge-medium-bg:  #FEF3C7;
+  --color-badge-medium-text: #D97706;
+  --color-badge-low-bg:     #F3F4F6;
+  --color-badge-low-text:   #6B7280;
+
+  /* ── Export badge colours ───────────────────────────────────── */
+  --color-badge-green-bg:   #DCFCE7;
+  --color-badge-green-text: #16A34A;
+  --color-badge-amber-bg:   #FEF3C7;
+  --color-badge-amber-text: #D97706;
+  --color-badge-blue-bg:    #F3F4F6;
+  --color-badge-blue-text:  #6B7280;
+
+  /* ── Typography ─────────────────────────────────────────────── */
+  --font-display: 'Instrument Serif', Georgia, serif;
+  --font-sans:    'Inter', system-ui, sans-serif;
+
+  /* ── Border radius ──────────────────────────────────────────── */
+  --radius-card: 12px;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}

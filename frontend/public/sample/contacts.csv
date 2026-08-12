@@ -1,0 +1,51 @@
+Record ID,First Name,Last Name,Email,Phone Number,Associated Company,Company ID,Lifecycle Stage,Contact Owner,Country/Region,Last Activity Date,Create Date,Associated Deal IDs
+1001,John,Smith,john.smith@acmecorp.com,+1-555-0101,ACME Corporation,C001,Lead,Alice Johnson,United States,2026-07-15,2025-03-10,
+1002,Jon,Smith,john.smith@acmecorp.com,+1-555-0102,ACME Corporation,C001,Lead,Alice Johnson,United States,2026-07-10,2025-05-22,
+1003,Sarah,Connor,s.connor@techventures.io,+44-20-7946-0103,Tech Ventures Inc,C002,Marketing Qualified Lead,Bob Martinez,United Kingdom,2026-07-20,2025-02-14,
+1004,Sara,Connor,sarah.connor@techventures.io,+44-20-7946-0104,Tech Ventures Inc,C002,Marketing Qualified Lead,Bob Martinez,United Kingdom,2026-07-18,2025-06-30,
+1005,Info,,info@globalretail.com,+1-555-0105,Global Retail Ltd,C003,Lead,Alice Johnson,United States,2026-07-01,2024-11-15,
+1006,Support,,support@mediainc.net,+1-555-0106,Media Inc,C004,Lead,Alice Johnson,United States,2026-06-01,2024-12-20,
+1007,James,Olson,jolson@oldclient.com,+1-555-0107,Pinnacle Systems,C008,Customer,Alice Johnson,United States,2025-12-01,2024-08-05,
+1008,Patricia,Wells,pwells@stalecorp.com,+1-555-0108,Redwood Capital,C009,Lead,Alice Johnson,United States,2025-10-15,2024-07-12,
+1009,Marcus,Bell,,+1-555-0109,Apex Industries,C010,Lead,Alice Johnson,United States,2026-07-20,2025-09-18,
+1010,Linda,Torres,ltorres@northstar.com,+1-555-0110,NorthStar Solutions,C005,Opportunity,,United States,2026-07-22,2025-10-05,
+1011,Kevin,Wu,kwu@startupco.io,+1-555-0111,Startup Co,C006,,Alice Johnson,United States,2026-07-18,2025-11-30,
+1012,Emma,Davis,edavis@techfirm.com,+1-555-0112,TechFirm,C007,Customer,Alice Johnson,,2026-07-25,2025-08-14,
+1013,David,Park,dpark@pinnacle-sys.com,+1-555-0113,Pinnacle Systems,C008,Lead,Alice Johnson,United States,2026-07-30,2025-04-22,D001
+1014,Angela,White,awhite@redwoodcapital.com,+1-555-0114,Redwood Capital,C009,Customer,Alice Johnson,United States,2026-07-28,2025-05-10,
+1015,Ryan,James,rjames@gmail.com,+1-555-0115,,,Subscriber,Alice Johnson,United States,2026-07-15,2025-12-01,
+1016,Mia,Chen,mchen@outlook.com,+65-6555-0116,,,Lead,Bob Martinez,Singapore,2026-07-20,2026-01-15,
+1017,Hans,Mueller,hmueller@apex-ind.com,+49-30-5550117,Apex Industries,C010,Sales Qualified Lead,Alice Johnson,Germany,2026-07-25,2025-07-08,
+1018,Yuki,Tanaka,ytanaka@horizonmedia.co,+81-3-5550118,Horizon Media,C011,Lead,Bob Martinez,Japan,2026-07-22,2025-08-20,
+1019,Carlos,Ruiz,cruiz@summitanalytics.com,+52-55-5550119,Summit Analytics,C012,Marketing Qualified Lead,Carol Kim,Mexico,2026-07-18,2025-09-14,
+1020,Tom,Bradley,tbradley@redwoodcapital.com,+1-555-0120,Redwood Capital,C009,Opportunity,Alice Johnson,United States,2026-07-28,2025-06-15,D013
+1021,Sandra,Lee,slee@techfirm.com,+1-555-0121,TechFirm,C007,Sales Qualified Lead,Alice Johnson,United States,2026-07-30,2025-07-20,D010
+1022,Peter,Nguyen,pnguyen@startupco.io,+1-555-0122,Startup Co,C006,Opportunity,Alice Johnson,United States,2026-07-25,2025-08-10,D011
+1023,Rachel,Thompson,rthompson@northstar.com,+1-555-0123,NorthStar Solutions,C005,Customer,Alice Johnson,United States,2026-07-29,2025-04-18,
+1024,Daniel,Kim,dkim@redwoodcapital.com,+1-555-0124,Redwood Capital,C009,Opportunity,Alice Johnson,United States,2026-07-27,2025-05-25,
+1025,Michelle,Adams,madams@acmecorp.com,+1-555-0125,ACME Corporation,C001,Customer,Alice Johnson,United States,2026-07-31,2025-03-30,D014
+1026,Christopher,Evans,cevans@pinnacle-sys.com,+1-555-0126,Pinnacle Systems,C008,Opportunity,Alice Johnson,United States,2026-07-26,2025-06-12,D015
+1027,Laura,Wilson,lwilson@northstar.com,+1-555-0127,NorthStar Solutions,C005,Sales Qualified Lead,Alice Johnson,United States,2026-07-22,2025-09-05,D018
+1028,Brian,Cooper,bcooper@apex-ind.com,+1-555-0128,Apex Industries,C010,Opportunity,Alice Johnson,United States,2026-07-24,2025-10-20,D020
+1029,Stephanie,Hall,shall@coastaldynamics.com,+1-555-0129,Coastal Dynamics,C013,Lead,Alice Johnson,United States,2026-07-20,2025-11-15,
+1030,Gregory,Martinez,gmartinez@irongatepartners.com,+1-555-0130,Iron Gate Partners,C014,Marketing Qualified Lead,Alice Johnson,United States,2026-07-18,2025-12-08,
+1031,Natalie,Scott,nscott@vantagepoint.com,+1-555-0131,Vantage Point Inc,C015,Lead,Alice Johnson,United States,2026-07-15,2026-01-20,D009
+1032,Eric,Green,egreen@acmecorp.com,+1-555-0132,ACME Corporation,C001,Sales Qualified Lead,Alice Johnson,United States,2026-07-28,2025-05-14,
+1033,Jessica,Baker,jbaker@mediainc.net,+1-555-0133,Media Inc,C004,Customer,Alice Johnson,United States,2026-07-30,2025-04-22,
+1034,Matthew,Nelson,mnelson@globalretail.com,+1-555-0134,Global Retail Ltd,C003,Sales Qualified Lead,Alice Johnson,United States,2026-07-25,2025-06-30,
+1035,Amanda,Carter,acarter@summitanalytics.com,+1-555-0135,Summit Analytics,C012,Opportunity,Alice Johnson,United States,2026-07-22,2025-08-17,
+1036,Patrick,Mitchell,pmitchell@techfirm.com,+1-555-0136,TechFirm,C007,Lead,Alice Johnson,Canada,2026-07-19,2025-09-25,
+1037,Heather,Perez,hperez@apex-ind.com,+1-555-0137,Apex Industries,C010,Marketing Qualified Lead,Alice Johnson,United States,2026-07-17,2025-10-30,
+1038,Jonathan,Roberts,jroberts@vantagepoint.com,+1-555-0138,Vantage Point Inc,C015,Lead,Alice Johnson,United States,2026-07-14,2025-11-18,
+1039,Christina,Turner,cturner@coastaldynamics.com,+1-555-0139,Coastal Dynamics,C013,Marketing Qualified Lead,Alice Johnson,United States,2026-07-25,2026-01-10,
+1040,Scott,Phillips,sphillips@irongatepartners.com,+1-555-0140,Iron Gate Partners,C014,Sales Qualified Lead,Alice Johnson,United States,2026-07-28,2025-07-22,
+1041,Rebecca,Campbell,rcampbell@globalretail.com,+1-555-0141,Global Retail Ltd,C003,Customer,Alice Johnson,United States,2026-07-31,2025-06-05,
+1042,Derek,Parker,dparker@northstar.com,+1-555-0142,NorthStar Solutions,C005,Lead,Alice Johnson,United States,2026-07-26,2025-08-14,
+1043,Samantha,Evans,sevans@mediainc.net,+1-555-0143,Media Inc,C004,Marketing Qualified Lead,Alice Johnson,United States,2026-07-24,2025-09-20,
+1044,Nathan,Edwards,nedwards@startupco.io,+1-555-0144,Startup Co,C006,Sales Qualified Lead,Alice Johnson,United States,2026-07-22,2025-10-15,
+1045,Victoria,Foster,vfoster@techventures.io,+44-20-7946-0145,Tech Ventures Inc,C002,Opportunity,Bob Martinez,United Kingdom,2026-07-29,2025-06-18,D016
+1046,Andrew,Hughes,ahughes@horizonmedia.co,+44-20-7946-0146,Horizon Media,C011,Sales Qualified Lead,Bob Martinez,United Kingdom,2026-07-27,2025-07-25,
+1047,Claire,Morgan,cmorgan@coastaldynamics.com,+33-1-5550147,Coastal Dynamics,C013,Marketing Qualified Lead,Bob Martinez,France,2026-07-25,2025-08-30,
+1048,Michael,Chen,mchen@summitanalytics.com,+61-2-5550148,Summit Analytics,C012,Opportunity,Carol Kim,Australia,2026-07-30,2025-05-20,D017
+1049,Priya,Sharma,pshahma@vantagepoint.com,+91-22-5550149,Vantage Point Inc,C015,Sales Qualified Lead,Carol Kim,India,2026-07-28,2025-06-22,D019
+1050,Wei,Zhang,wzhang@horizonmedia.co,+86-21-5550150,Horizon Media,C011,Marketing Qualified Lead,Carol Kim,China,2026-07-26,2025-07-18,

@@ -1,0 +1,31 @@
+Record ID,First Name,Last Name,Email,Phone Number,Associated Company,Company ID,Lifecycle Stage,Contact Owner,Country/Region,Last Activity Date,Create Date,Associated Deal IDs
+2001,James,Whitfield,james.whitfield@oriontech.com,+1-212-555-0201,Orion Tech,RC001,Lead,Alice Johnson,United States,2026-07-20,2025-01-10,
+2002,james,whitfield,james.whitfield@oriontech.com,+1-212-555-0201,Orion Tech,RC001,Lead,Alice Johnson,United States,2026-07-18,2025-03-15,
+2003,JAMES,WHITFIELD,JAMES.WHITFIELD@ORIONTECH.COM,+1-212-555-0201,Orion Tech,RC001,Lead,Alice Johnson,United States,2026-07-15,2025-05-20,
+2004,Maria,González,maria.gonzalez@nuvoclean.mx,+52-55-1234-5678,NuvoClean SA,RC002,Marketing Qualified Lead,Carol Kim,Mexico,2026-07-28,2025-04-12,RD005
+2005,Björn,Åström,bastrom@nordicpay.se,+46-8-555-0205,Nordic Pay AB,RC003,Sales Qualified Lead,Bob Martinez,Sweden,2026-07-22,2025-06-01,RD006
+2006,Fatima,Al-Rashid,farashid@gulflogistics.ae,+971-4-555-0206,Gulf Logistics LLC,,Lead,Alice Johnson,United Arab Emirates,2026-07-25,2025-07-14,
+2007,Chen,Wei,cwei@dragonfintech.cn,+86-10-5555-0207,Dragon Fintech,RC004,Opportunity,Carol Kim,China,2026-07-30,2025-08-20,RD007
+2008,Robert,O'Brien,robrien@castlerock.ie,+353-1-555-0208,Castle Rock Ltd,RC005,Lead,Bob Martinez,Ireland,2026-07-18,2025-09-05,
+2009,Aisha,Okonkwo,,+234-1-555-0209,West Africa Ventures,RC006,Lead,Alice Johnson,Nigeria,2026-07-10,2025-02-28,
+2010,Derek,Moss,derek.moss@,+1-303-555-0210,Rocky Mountain Co,RC007,Lead,Alice Johnson,United States,2026-07-05,2025-03-14,
+2011,Patricia,Nair,pnair@quantumleap.in,+91-22-5555-0211,Quantum Leap India,RC008,Opportunity,Carol Kim,India,2026-07-29,2025-05-18,RD008
+2012,Tom,Nguyen,tnguyen@quantumleap.in,+91-22-5555-0212,Quantum Leap India,RC008,Sales Qualified Lead,Carol Kim,India,2026-07-27,2025-06-22,RD008
+2013,Sales,,sales@bigboxretail.com,+1-800-555-0213,Big Box Retail Corp,RC009,Lead,Alice Johnson,United States,2026-07-15,2024-12-01,
+2014,Info,,info@bigboxretail.com,+1-800-555-0214,Big Box Retail Corp,RC009,Lead,Alice Johnson,United States,2026-07-12,2024-11-15,
+2015,Henry,Park,hpark@crescentcap.com,+82-2-555-0215,Crescent Capital,RC010,Customer,,South Korea,2026-07-28,2025-04-30,
+2016,Olivia,Stone,ostone@vertexmfg.com,+1-416-555-0216,Vertex Manufacturing,RC011,Lead,Alice Johnson,Canada,2025-09-01,2025-01-20,
+2017,Mohammed,Al-Farsi,malfarsi@dxbholdings.com,+971-4-555-0217,DXB Holdings,RC012,,Bob Martinez,United Arab Emirates,2026-07-20,2025-07-08,
+2018,Yuna,Kim,ykim@seoultech.kr,+82-2-555-0218,Seoul Tech Partners,RC013,Marketing Qualified Lead,Carol Kim,South Korea,2025-08-15,2025-03-25,
+2019,Lucas,Patel,lpatel@brightpath.co.uk,+44-20-5555-0219,BrightPath UK,RC014,Sales Qualified Lead,Bob Martinez,United Kingdom,2025-07-01,2025-02-14,
+2020,Nina,Vasquez,nvasquez@andeanlogistics.pe,+51-1-555-0220,Andean Logistics,RC015,Lead,Alice Johnson,Peru,2026-07-22,2025-08-30,
+2021,Kenji,Watanabe,kwatanabe@tokyosystems.jp,+81-3-5555-0221,Tokyo Systems,RC016,Opportunity,Carol Kim,Japan,2026-07-30,2025-09-15,RD009
+2022,Erica,Bloom,ebloom@innovatehub.com,+1-512-555-0222,InnovateHub LLC,RC017,Lead,,United States,2026-07-18,2025-10-20,
+2023,Frank,Tillman,ftillman@cornerstonere.com,+1-615-555-0223,Cornerstone Real Estate,RC018,Opportunity,Alice Johnson,United States,2026-07-25,2025-11-05,RD010
+2024,Amara,Diallo,adiallo@westafrican.com,+221-33-555-0224,West African Trading Co,RC019,Lead,Bob Martinez,Senegal,2026-07-20,2025-12-10,
+2025,Ingrid,Lindqvist,ilindqvist@stockholmcap.se,+46-8-555-0225,Stockholm Capital,RC020,Sales Qualified Lead,Bob Martinez,Sweden,2026-07-28,2026-01-15,RD011
+2026,Chris,Tan,ctan@pacificrim.sg,+65-6555-0226,Pacific Rim Ventures,RC021,Customer,Carol Kim,Singapore,2026-07-30,2025-05-22,
+2027,Diana,Walsh,dwalsh@atlanticinsurance.ie,+353-1-555-0227,Atlantic Insurance,RC022,Marketing Qualified Lead,Bob Martinez,Ireland,2026-07-25,2025-06-18,
+2028,Victor,Osei,vosei@accradigital.gh,+233-30-555-0228,Accra Digital Solutions,,Lead,Alice Johnson,Ghana,2026-07-22,2025-07-25,
+2029,Sandra,Kowalski,skowalski@warsawfintech.pl,+48-22-555-0229,Warsaw Fintech Group,RC023,Sales Qualified Lead,Bob Martinez,Poland,2026-07-19,2025-08-12,RD012
+2030,Aaron,Fletcher,afletcher@deserttech.com,+1-602-555-0230,Desert Tech Inc,RC024,Lead,Alice Johnson,United States,2026-07-17,2025-09-28,
