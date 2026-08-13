@@ -7,8 +7,8 @@ export default function ExportPage({ onReset }) {
     try {
       const endpoint =
         fileType === 'zip'
-          ? 'http://localhost:8000/api/export/zip'
-          : `http://localhost:8000/api/export?file_type=${fileType}`;
+          ? `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/api/export/zip`
+          : `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/api/export?file_type=${fileType}`;
 
       const res = await fetch(endpoint, { method: 'POST' });
       if (res.ok) {

@@ -46,7 +46,7 @@ export default function App() {
   const handleTrySample = async () => {
     setIsLoadingAudit(true);
     try {
-      const res = await fetch('http://localhost:8000/api/audit/sample', {
+      const res = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/api/audit/sample`, {
         method: 'POST',
       });
       if (res.ok) {
@@ -91,10 +91,10 @@ export default function App() {
         formData.append('config', JSON.stringify(customConfig));
       }
 
-      let endpoint = 'http://localhost:8000/api/audit';
+      let endpoint = `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/api/audit`;
       // If user did not upload a custom contacts file, use sample audit endpoint with custom config
       if (!uploadedFiles.contacts) {
-        endpoint = 'http://localhost:8000/api/audit/sample';
+        endpoint = `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/api/audit/sample`;
       }
 
       const res = await fetch(endpoint, {
